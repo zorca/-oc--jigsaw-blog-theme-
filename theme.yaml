@@ -3,3 +3,5 @@ description: ''
 author: Zorca Orcinus
 homepage: 'https://zorca.org'
 code: ''
+require:
+    - RainLab.Blog
