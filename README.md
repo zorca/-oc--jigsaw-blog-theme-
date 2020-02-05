@@ -1,1 +1,1 @@
-# -oc--jigsaw-blog-theme-
+# Jigsaw Blog Starter Theme for October CMS
