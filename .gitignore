@@ -1,0 +1,4 @@
+# Ignore vendors
+node_modules/
+
+assets/mix-manifest.json
