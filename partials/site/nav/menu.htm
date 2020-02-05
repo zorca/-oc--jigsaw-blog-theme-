@@ -1,0 +1,16 @@
+<nav class="hidden lg:flex items-center justify-end text-lg">
+    <a title="Blog" href="{{ 'blog'|page }}"
+       class="ml-6 text-gray-700 hover:text-blue-600 {% if this.page.id == 'blog' %}active text-blue-600{% endif %}">
+        Blog
+    </a>
+
+    <a title="About" href="{{ 'about'|page }}"
+       class="ml-6 text-gray-700 hover:text-blue-600 {% if this.page.id == 'about' %}active text-blue-600{% endif %}">
+        About
+    </a>
+
+    <a title="Contact" href="{{ 'contact'|page }}"
+       class="ml-6 text-gray-700 hover:text-blue-600 {% if this.page.id == 'contact' %}active text-blue-600{% endif %}">
+        Contact
+    </a>
+</nav>
