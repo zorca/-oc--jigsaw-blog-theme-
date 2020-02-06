@@ -3,5 +3,6 @@ description: ''
 author: Zorca Orcinus
 homepage: 'https://zorca.org'
 code: ''
+form: config/fields.yaml
 require:
     - RainLab.Blog
